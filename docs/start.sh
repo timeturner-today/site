@@ -1,3 +1,1 @@
-#!/bin/bash
-
-bundle exec jekyll serve -P 8000
+bundle exec jekyll serve

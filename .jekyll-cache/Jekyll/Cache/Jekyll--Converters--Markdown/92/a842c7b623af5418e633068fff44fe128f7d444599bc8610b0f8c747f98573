@@ -1,0 +1,51 @@
+I"P<!--author-->
+
+<blockquote class="twitter-tweet" data-lang="en">   <a class="twitter-tweet" href="http://twitter.com/share?text=%0ACheck+out+timeturner.today+for+engaging+content%2C+podcasts%2C+and+more%21+%0ALooking+forward+to+the+next+podcast+series...%0A%23TimeTurnerToday+%0A+from+Akshaya+Ajith+%23timeturner+%23blog&amp;url=http%3A%2F%2Flocalhost%3A4000%2Fabout%2F&amp;via=">       
+Check out timeturner.today for engaging content, podcasts, and more! <br />
+Looking forward to the next podcast series...<br />
+#TimeTurnerToday 
+ <small><span class="icon-twitter" aria-hidden="true"></span> Tweet To Share</small>   </a></blockquote>
+
+<h3 id="works--publications">Works &amp; Publications</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: left">Work</th>
+      <th style="text-align: left">Description</th>
+      <th style="text-align: center">Link</th>
+      <th>Published Date</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left">How to confront a bully</td>
+      <td style="text-align: left">Reflection on <a href="https://lectures.org/2020/02/24/how-to-confront-a-bully-a-wits-student-reflects-on-she-said/">She Said</a> #MeToo movement with <a href="https://www.nytimes.com/by/jodi-kantor">Jodi Kantor</a> and <a href="https://www.nytimes.com/by/megan-twohey">Megan Twohey</a></td>
+      <td style="text-align: center"><a href="https://lectures.org/2020/02/24/how-to-confront-a-bully-a-wits-student-reflects-on-she-said/">SAL She Said</a></td>
+      <td>Feb 24, 2020</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Reflections on <a href="https://www.theguardian.com/profile/west-lindy">Lindy West</a></td>
+      <td style="text-align: left">Conversations on uncomfortabile realities facing us and chasing likeability in a churning world</td>
+      <td style="text-align: center"><a href="https://lectures.org/2019/12/17/a-wits-student-reflects-on-lindy-west//">SAL Lindy</a></td>
+      <td>Dec 17, 2019</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">A Poem “<a href="https://lectures.org/2018/10/09/imperfect-by-akshaya-ajith/">Imperfect</a>” <img src="http://twitter.com/home?status=TimeTurner%20Today%3BSeattle%20Arts%20&amp;%20Lectures%20/%20%26%238220%3BImperfect%2C%26%238221%3B+by+Akshaya+Ajith%20https://lectures.org/2018/10/09/imperfect-by-akshaya-ajith/" alt="" /></td>
+      <td style="text-align: left">Imperfect - a short poem</td>
+      <td style="text-align: center"><a href="https://lectures.org/2018/10/09/imperfect-by-akshaya-ajith/">SAL - Imperfect by Akshaya Ajith</a></td>
+      <td>Oct 09, 2018</td>
+    </tr>
+  </tbody>
+</table>
+
+<script type="module">
+  document.querySelectorAll('a[href="#_search-input"]').forEach(el => {
+    if (!el.dataset.done) {
+      el.addEventListener('click', () => document.getElementById('_search-input').focus());
+      el.dataset.done = '';
+    }
+  });
+</script>
+
+:ET
