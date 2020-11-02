@@ -52,10 +52,10 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:             Home
-    url:               /home/
   - title:             Podcasts
     url:               /podcasts/
+  - title:             Articles
+    url:               /articles/
   - title:             Today
     url:               /today/
   - title:             About

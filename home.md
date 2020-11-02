@@ -1,5 +1,5 @@
 ---
 permalink: /home
 redirect_to:
-  - https://www.timeturner.today
+  - https://www.timeturner.today/index.html
 ---
